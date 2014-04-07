@@ -47,4 +47,4 @@
 #define DTYPE_CHECK     0x00000000
 #define DTYPE_NOCHECK   0x00000100  
 
-#endif   /* ----- #ifndef __opt_def_INC  ----- */
+#endif   /* ----- #ifndef __OPT_DEF_H__  ----- */
